@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "my-test-tab-app",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
